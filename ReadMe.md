@@ -48,3 +48,6 @@ Ahoj, tento projekt beru jako test různých nástrojů a workflow v malém a in
 > - Většinová institucionalizace (5+ let)
 
 ### Licence [MIT](LICENSE)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg0NTg5OTkzMV19
+-->
